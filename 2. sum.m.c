@@ -3,4 +3,9 @@ method_id("sum");
     transfer(arg(1), retstream(integer));
       reduce("+");
     _end();
-    ret(take(1));
+    
+    
+comment("we get a list");
+commenct("see http://jsfiddle.net/6ZFvE/");
+
+
