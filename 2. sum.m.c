@@ -6,6 +6,6 @@ method_id("sum");
     
     
 comment("we get a list");
-commenct("see http://jsfiddle.net/6ZFvE/1/");
+commenct("see http://jsfiddle.net/6ZFvE/2/");
 
 
