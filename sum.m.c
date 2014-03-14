@@ -1,6 +1,6 @@
 method_id("sum");
   context_stream();
-    copy_do(arg(1), retstream(integer));
+    copy(arg(1), retstream(integer));
       reduce("+");
-    copy_end();
+    _end();
     ret(take(1));
